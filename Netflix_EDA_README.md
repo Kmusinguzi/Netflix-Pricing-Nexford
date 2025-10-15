@@ -44,4 +44,5 @@ Python, Pandas, NumPy, BeautifulSoup, Seaborn, MySQL, Google Cloud Storage.
 ## 🚀 Next Steps
 - Model building (regression and machine learning)
 - Elasticity modeling per region
+
 - Dashboard integration with API
